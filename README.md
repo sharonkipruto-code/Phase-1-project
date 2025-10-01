@@ -24,7 +24,8 @@ The project seeks to answer:
 
  ## About the data
  * Timespan: the data spreads across from the year 1948 to the year 2022
- * Key columns used;
+ * Key columns used:
+ 
    *`Total fatal injuries`-to show extreme risks of the accidents
    *`Total Injuries`-to show impact of the  accidents
    *`Weather condition`-to show impact of environment on accident
@@ -37,11 +38,11 @@ The project seeks to answer:
  1. Aircraft Make with most injuries-
  [image](./Images/Make&Accident_trends.png)
 
- 2.Accident trends overtime by `make`- [image](./Images./Aircraft&Injuries.png)
+ 2.Accident trends overtime by `make`- (./Images./Aircraft&Injuries.png)
 
- 3. fatalities across aircrafts- [image](./Images/Aircraft&fatalities_trends.png)
+ 3. fatalities across aircrafts- (./Images/Aircraft&fatalities_trends.png)
 
- 4. Number of Engine vs Accidents- [image](./Images/engines&Accidents_trends.png)
+ 4. Number of Engine vs Accidents- (./Images/engines&Accidents_trends.png)
 
  5. Purpose of flight vs Aircraft- [image](./Images/Aircraft&Purpose_trends.png)
 
