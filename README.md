@@ -27,10 +27,15 @@ The project seeks to answer:
  * Key columns used:
 
    *`Total fatal injuries`-to show extreme risks of the accidents
+   
    *`Total Injuries`-to show impact of the  accidents
+   
    *`Weather condition`-to show impact of environment on accident
+   
    *`Event date`-useful for overal trends
+   
    *`Aircrafttype`,`Make` &`model`-to identify the aircraft types
+   
    *`Number of Engines`-to identify its impact on accidents
 
 
