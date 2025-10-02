@@ -7,8 +7,6 @@ This project provides analysis on the Aviation Accident data as provided by the 
 
 The project relies of data from [kaggle](https://www.kaggle.com/datasets/drealbash/aviation-accident-from-1919-2023?select=aviation-accident-data-2023-05-16.csv) 
 
-Who is this for? 
-**SKYSAFE ANALITIC LTD.'S new aviation department
 
 The project seeks to answer:
  1. Which aircrafts has the highest and lowest accidents,injuries and fatalities?
@@ -98,7 +96,7 @@ In the visualizations above we were able to visualize the different aircrafts an
 4. How have accident trends changed overtime?
  * Although, focusing on trends overtime the accidents incidents reported/observed have reduced greatly suggesting safety measures were re-enforced and  are working.
 
-#### Recommendations for Skysafe Ltd.
+### Recommendations for Client
 
 1. Prioritize aircrafts with multiple engines as they have proven to have lower risks for both private ad commercial operations
 2. For **Commercial flights** , prioritize larger Boieng Models with strong safety and survival outcomes.
