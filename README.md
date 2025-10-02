@@ -7,12 +7,17 @@ This project provides analysis on the Aviation Accident data as provided by the 
 
 The project relies of data from [kaggle](https://www.kaggle.com/datasets/drealbash/aviation-accident-from-1919-2023?select=aviation-accident-data-2023-05-16.csv) 
 
+Who is this for? 
+**SKYSAFE ANALITIC LTD.'S new aviation department
+
 The project seeks to answer:
  1. Which aircrafts has the highest and lowest accidents,injuries and fatalities?
 
  2. Does number of engines in an aircraft impact accidents?
 
  3. Which aircrafts are best used for private and commercial flights?
+
+ 4. How have accident trends changed overtime?
 
 
  ## KEY STEPS IN DATA SCIENCE
@@ -23,7 +28,12 @@ The project seeks to answer:
  5. Create interactive dashboard on tableau.
 
  ## About the data
- * Timespan: the data spreads across from the year 1948 to the year 2022
+ * Timeframe: the data spreads across from the year 1948 to the year 2022
+
+ * Files Included:
+   `[DATA](./Data/AviationData.csv)` -raw Aviation  data
+   `[Cleaned_Data](./Data/Cleaned_Accident_Data.csv)` -Cleaned Aviation data
+
  * Key columns used:
 
    *`Total fatal injuries`-to show extreme risks of the accidents
@@ -55,4 +65,31 @@ The project seeks to answer:
 
 ## Recomendations & Conclusion
 
+In the visualizations above we were able to visualize the different aircrafts and their occurences on accident data.
+
+1. Which aircrafts has the highest and lowest accidents,injuries and fatalities?
+ * Cessna type aircrafts have dominated in Accidents and non-fatal injuries  especially Cessna 152 & 172
+ * Boieng 737 and 737-200 have dominated in highest total fatalities
+ * Boieng aircraft family showed high counts of uninjured
+
+
+2. Does number of engines in an aircraft impact accidents?
+
+ *single engine aircrafts account for the most accidents,while aircrafts with more than 2 engines have proved to be safer and have close to no accidents
+
+3. Which aircrafts are best used for private and commercial flights?
+
+ * Cessna 172&152 are top on personal and instructional flights accidents 
+ * Beech A36 dominated in accidents for the Business flights
+ * Cessna 421C dominated in accidents for the Executive/corporate flights
+
+4. How have accident trends changed overtime?
+ * Although, focusing on trends overtime the accidents incidents reported/observed have reduced greatly suggesting safety measures were re-enforced and  are working.
+
+#### Recommendations for Skysafe Ltd.
+
+1. Prioritize aircrafts with multiple engines as they have proven to have lower risks for both private ad commercial operations
+2. For **Commercial flights** , prioritize larger Boieng Models with strong safety and survival outcomes.
+3. For **Private Flights**, steer clear from high incident Makes like Cessna & Beech.
+4. for **Instructional Flights** ,intensify pilot training and scenario based safety drills before proceeding.
 
