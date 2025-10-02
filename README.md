@@ -48,21 +48,21 @@ The project seeks to answer:
 
 
  * Visualizations:
- 1. Aircraft Make with most injuries-
- [image](./Images/Make&Accident_trends.png)<img width="1000" height="600" alt="Aircraft Injuries" src="https://github.com/user-attachments/assets/11c707db-240f-430a-a44d-6c13a7b8aa83" />
+ 1. Aircraft type with most injuries-
+<img width="1000" height="600" alt="Aircraft Injuries" src="https://github.com/user-attachments/assets/d6350774-fd6e-47a5-acc9-053ea6e6f987" />
 
 
- 2.Accident trends overtime by `make`- [image](Images/Aircraft&Injuries.png)
-<img width="1000" height="600" alt="Make Accident_trends" src="https://github.com/user-attachments/assets/fece8ba7-d844-43d8-a969-8b7c20c1f238" />
+ 2. Accident trends overtime by `make`- <img width="1000" height="600" alt="Aircraft Accident_trends" src="https://github.com/user-attachments/assets/013fc62c-2237-4b77-a6a0-73665a2ef95a" />
 
- 3. fatalities across aircrafts- [image](Images/Aircraft&fatalities_trends.png)
-<img width="1000" height="600" alt="Aircraft fatalities_trends" src="https://github.com/user-attachments/assets/75076338-5be5-4cc6-b8ad-091b25a6be9e" />
 
- 4. Number of Engines vs Accidents- [image](./Images/engines&Accidents_trends.png)
-<img width="1000" height="600" alt="engines Accidents_trends" src="https://github.com/user-attachments/assets/9e013189-f9ba-4252-aeca-7ea1f06dcbe2" />
+ 3. fatalities across aircraft- 
+<img width="1000" height="600" alt="Aircraft fatalities_trends" src="https://github.com/user-attachments/assets/a6baeb92-bede-490f-aaed-1200dc4e43c7" />
 
- 5. Purpose of flight vs Aircraft- [image](./Images/Aircraft&Purpose_trends.png)
-<img width="1000" height="600" alt="Aircraft Purpose_trends" src="https://github.com/user-attachments/assets/f0c7944f-e94c-4d2d-ac0c-f4fe1f18adfb" />
+ 4. Number of Engines vs Accidents-<img width="1000" height="600" alt="engines Accidents_trends" src="https://github.com/user-attachments/assets/51a224aa-205b-4021-9d0e-7244ade0a21d" />
+
+
+ 5. Purpose of flight vs Aircraft- 
+<img width="1000" height="600" alt="Aircraft Purpose_trends" src="https://github.com/user-attachments/assets/4e092639-633e-4516-8a7a-86dcd5df2b2a" />
 
 
  *Aviation Accident dashboard
