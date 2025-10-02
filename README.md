@@ -7,6 +7,11 @@ This project provides analysis on the Aviation Accident data as provided by the 
 
 The project relies of data from [kaggle](https://www.kaggle.com/datasets/drealbash/aviation-accident-from-1919-2023?select=aviation-accident-data-2023-05-16.csv) 
 
+BUSINESS UNDERSTANDING
+
+Stakeholders:
+* Operations & safety team
+* Executive Leadership/Investors
 
 The project seeks to answer:
  1. Which aircrafts has the highest and lowest accidents,injuries and fatalities?
