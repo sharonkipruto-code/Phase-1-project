@@ -71,7 +71,7 @@ The project seeks to answer:
 
 
  *Aviation Accident dashboard
- Then I proceeded to make an interactive dashboard in tableau, to view: [AVIATION ACCIDENT DASHBOARD](https://public.tableau.com/app/profile/sharon.kipruto/viz/AVIATIONACCIDENTDASHBOARD/AVIATIONACCIDENTDASHBOARD2#1)
+ Then I proceeded to make an interactive dashboard in tableau, to view: [AVIATION ACCIDENT DASHBOARD](https://public.tableau.com/app/profile/sharon.kipruto/viz/AVIATIONACCIDENTDASHBOARD/AVIATIONACCIDENTDASHBOARD)
   [IMAGE](./Images/AVIATION%20ACCIDENT%20DASHBOARD.png)
 <img width="999" height="799" alt="AVIATION ACCIDENT DASHBOARD" src="https://github.com/user-attachments/assets/fa805268-0ac6-4598-a7d0-1e0475fd44aa" />
 
